@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+.clear{
+    clear: both;
+}
+.box {
+    width: 25%;
+    float: left;
+    padding: 40px 20px;
+}
+
+.box img {
+    width: 100%;
+}
+.all{
+    
+}
+.contain {
+    margin: 0 auto;
+    width: 85%;
+}
+
+.line {
+    text-decoration: line-through;
+}
+
+.box p {
+    margin-top: 20px;
+}
+.box1{
+    width: 25%;
+    float: left;
+    margin-top: 40px;
+    
+}
+.text h2{
+    font-size: 38px;
+}
+.text p{
+    font-size: 22px;
+}
